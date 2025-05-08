@@ -105,9 +105,6 @@ Contributions are welcome! Feel free to open issues or submit pull requests for 
 - Supporting multiple cameras
 
 ---
-Here’s a complete `README.md` file for your **Vehicle Speed Detection using OpenCV** project:
-
----
 
 
 ````markdown
