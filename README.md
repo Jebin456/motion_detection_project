@@ -108,7 +108,7 @@ Contributions are welcome! Feel free to open issues or submit pull requests for 
 
 
 ````markdown
-# 🚗 Vehicle Speed Detection using OpenCV
+## 🚗 Vehicle Speed Detection using OpenCV
 
 This project uses OpenCV to detect moving vehicles in a video and calculate their speed based on the time they take to travel between two fixed points. It’s a basic implementation using background subtraction and frame timing.
 
